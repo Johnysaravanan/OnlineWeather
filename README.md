@@ -15,10 +15,14 @@ A simple and responsive static weather application built with HTML, CSS, and Jav
 - **CSS3** – Styling and layout
 - **JavaScript** – DOM manipulation and interactivity
 
-## Use Case
+## 🕹Use Case
 
 Ideal for showcasing:
 
 - UI/UX design skills
 - DOM manipulation
 - Front-end development practice without external dependencies
+
+## 📝 Note
+
+This app uses static data and does not fetch real-time weather from any API. It is intended for front-end design and layout demonstration.
