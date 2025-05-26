@@ -2,6 +2,8 @@
 
 A simple and responsive static weather application built with HTML, CSS, and JavaScript. It displays weather information for predefined cities using locally stored data. Perfect for showcasing front-end skills and UI design.
 
+
+[View App](https://johnysaravanan.github.io/OnlineWeather/)
 ## 🚀 Features
 
 - Static weather data for selected cities
